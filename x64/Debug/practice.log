@@ -1,0 +1,7 @@
+﻿  CppCLR_WinFormsProject.cpp
+C:\Nadezhda\Study\C++\Practice\practice\Octagon.h(23,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Nadezhda\Study\C++\Practice\practice\Octagon.h(24,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Nadezhda\Study\C++\Practice\practice\Octagon.h(42,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Nadezhda\Study\C++\Practice\practice\Octagon.h(43,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  practice.vcxproj -> C:\Nadezhda\Study\C++\Practice\practice\x64\Debug\practice.exe

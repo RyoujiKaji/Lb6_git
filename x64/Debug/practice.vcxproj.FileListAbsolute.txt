@@ -1,0 +1,4 @@
+C:\Nadezhda\Study\C++\Practice\practice\x64\Debug\practice.vcxproj.AssemblyReference.cache
+C:\Nadezhda\Study\C++\Practice\practice\x64\Debug\practice.exe
+C:\Nadezhda\Study\C++\Practice\practice\x64\Debug\practice.Form1.resources
+C:\Nadezhda\Study\C++\Practice\practice\x64\Debug\practice.vcxproj.GenerateResource.cache
